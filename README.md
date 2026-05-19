@@ -1,1 +1,1 @@
-# Python-S2
+This repository gathers all my Python S2 work completed during the semester. It includes exercises, mini-projects, and practical solutions covering important intermediate and advanced Python topics such as functions, exception handling, file management, documentation, data structures, and object-oriented programming (OOP). Each folder reflects different concepts studied in class and helps demonstrate both problem-solving skills and code organization practices developed throughout the course.
